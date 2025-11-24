@@ -12,4 +12,4 @@
 
 [lab7](../../labs/lab7/lab7.md)
 
-### VM screenshot
+
