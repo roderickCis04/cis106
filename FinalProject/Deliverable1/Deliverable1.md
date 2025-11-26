@@ -95,3 +95,11 @@ The IP address **127.0.0.1** is the standard loopback address for the local comp
 
 GitHub is an online platform and service for hosting Git repositories, providing collaboration tools, issue tracking, code review, and project management features for software development teams. It enables sharing and contributing to open-source and private projects. 
 
+#### Unknown terms definitions
+
+**TTY:** It refers to a terminal (a text-based interface), and the tty command shows which terminal device you’re using.
+
+**Port Forwarding:** Port forwarding is a router/firewall setting that takes traffic coming in on a specific port of your public IP address and sends (forwards) it to a specific device and port inside your private network.
+
+
+
