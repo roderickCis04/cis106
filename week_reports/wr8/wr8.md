@@ -7,8 +7,8 @@
 
 ### Notes 8
 
-[Notes8](../../notes/notes8/notes8.md)
+* [notes8](../../notes/notes8/notes8.md)
 
 ### Lab 8
 
-[Lab8] ()
+* [lab8](../../labs/lab8/lab8.md)
